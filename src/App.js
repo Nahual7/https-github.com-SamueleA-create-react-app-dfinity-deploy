@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn about Dfinity
+          Learn about Dfinity!
         </a>
         <a
           className="App-link"
